@@ -21,6 +21,14 @@
       "pricing": "free"
     },
     {
+      "title": "AppScreen",
+      "link": "https://appscreen.pro",
+      "description": "Browser-based mockup editor that handles an entire App Store slide sequence as a single stretched canvas: set iPhone or iPad captures inside device frames, add caption text across the seams, then export every slide at the pixel size Apple asks for. Free to use; Pro is a one-off $9. Sent in by the maker.",
+      "globalIndex": 220,
+      "addedAt": "2026-10-12",
+      "pricing": null
+    },
+    {
       "title": "Cleanmock",
       "link": "https://cleanmock.com/",
       "description": "Free browser-based mockup generator. Create professional device mockups and screenshots with customizable backgrounds and layouts.",
