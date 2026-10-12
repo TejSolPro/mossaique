@@ -46,7 +46,7 @@
     "title": "Design News",
     "description": "Stay updated with the latest design news and trends. Daily updates on design tools, industry news, new products, and design community highlights from Product Hunt, Designer News, and leading design teams at Airbnb, Google, and Microsoft.",
     "icon": "Newspaper",
-    "resourceCount": 19
+    "resourceCount": 18
   },
   {
     "id": "design-systems",
@@ -67,7 +67,7 @@
     "title": "Frontend Design",
     "description": "Essential frontend resources for designers who code. Explore CSS frameworks like Tailwind and Bootstrap, JavaScript libraries like React and Vue, development tools, and modern frontend resources. Perfect for designers building user interfaces with HTML, CSS, and JavaScript.",
     "icon": "Code",
-    "resourceCount": 33
+    "resourceCount": 32
   },
   {
     "id": "graphic-design",
@@ -88,7 +88,7 @@
     "title": "Inspiration",
     "description": "Get inspired by the best design work from around the world. Browse award-winning websites on Awwwards, design galleries on Dribbble and Behance, and creative portfolios. Discover landing page designs, mobile UI patterns, and innovative web experiences.",
     "icon": "Lightbulb",
-    "resourceCount": 25
+    "resourceCount": 24
   },
   {
     "id": "mockup",
@@ -116,7 +116,7 @@
     "title": "Stock Photos",
     "description": "Free and premium stock photos for commercial use. High-quality photography from Unsplash, Pexels, and more. Find royalty-free images for your design projects, websites, and marketing materials. Millions of photos available.",
     "icon": "Camera",
-    "resourceCount": 6
+    "resourceCount": 5
   },
   {
     "id": "stock-videos",
@@ -165,7 +165,7 @@
     "title": "Wireframing",
     "description": "Wireframing tools for rapid prototyping. Create low-fidelity wireframes, sitemaps, and user flows to plan your projects. Use printable templates and digital tools to sketch ideas and communicate design concepts quickly and effectively.",
     "icon": "Box",
-    "resourceCount": 4
+    "resourceCount": 3
   },
   {
     "id": "others",

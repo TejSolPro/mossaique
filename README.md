@@ -148,9 +148,8 @@ _Stay updated with the latest design news and trends. Daily updates on design to
 - [Beta List](https://betalist.com/): Directory of upcoming startups and new internet products. Get early access to beta launches and discover innovative tools before they go mainstream.
 - [Beta Page](https://betapage.co/): Daily newsletter featuring new startups and product launches. Stay informed about the latest tools, apps, and services launching each day.
 - [Design Calendar](https://www.designcalendar.io/): An online community made for creatives who believe in the power of ideas and the joy of making them happen.
-- [Designer News](https://www.designernews.co/): Designer News is a large, global community of people working in design and technology or those interested in the topics.
 - [Dropbox Design](https://dropbox.design/): Insights, stories, and resources from Dropbox's design team. Learn about their design process, research, and product thinking.
-- [Facebook Design](https://design.facebook.com/): Designing for the global diversity of human needs.
+- [Facebook Design](https://www.meta.com/design-at-meta/): Designing for the global diversity of human needs.
 - [Google Design](https://design.google/): Supporting the future of design and technology.
 - [Hey Designer](https://heydesigner.com/): Daily curated design knowledge.
 - [Microsoft Design](https://www.microsoft.com/design/): Whether you want to practice new skills, develop new concepts, or create prototypes, these toolkits are your place to start.
@@ -224,7 +223,6 @@ _Essential frontend resources for designers who code. Explore CSS frameworks lik
 - [Jekyll](https://jekyllrb.com/): Transform your plain text into static websites and blogs. No more databases, comment moderation, or pesky updates to install—just your content.
 - [Markdown Guide](https://www.markdownguide.org/): The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
 - [Markup Validation Service](https://validator.w3.org/): This validator checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc.
-- [Material Design Lite](https://getmdl.io/): Material Design Lite lets you add a Material Design look and feel to your websites.
 - [Modaal](https://humaan.com/modaal/): An accessible dialog window plugin for all humans.
 - [Node.js](https://nodejs.org/en/): Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Parcel](https://parceljs.org/): Parcel combines a great out-of-the-box development experience with a scalable architecture that can take your project from just getting started to massive production application.
@@ -277,7 +275,6 @@ _Get inspired by the best design work from around the world. Browse award-winnin
 - [Behance](https://www.behance.net/): Behance is a platform for creative professionals around the world to showcase their own work and to discover the creative work of others.
 - [Best Website Gallery](https://bestwebsite.gallery/): Curated collection of beautiful, well-designed websites. Filter by color, type, and category to find design inspiration.
 - [Brutalist Websites](https://brutalistwebsites.com/): In its ruggedness and lack of concern to look comfortable or easy, Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design.
-- [Commerce Cream](https://commercecream.com/): Showcase of the best-designed Shopify e-commerce stores. Get inspiration for your online shop design and user experience.
 - [CSS Nectar](https://cssnectar.com/): CSS Nectar is a css website design showcase for web designers and developers.
 - [Design Inspiration](https://www.designspiration.com/): Designspiration is committed to being the best product that it can.
 - [Deslove](https://deslove.com/): A free platform for designers to publish work, build a portfolio, share thoughts, collect useful resources and connect with other creators. Available in English and Ukrainian.
@@ -350,7 +347,6 @@ _Free and premium stock photos for commercial use. High-quality photography from
 - [Lorem Picsum](https://picsum.photos/): The Lorem Ipsum for photos.
 - [Pexels](https://www.pexels.com/): The best free stock photos & videos shared by talented creators.
 - [Unsplash](https://unsplash.com/): The internet's source of freely-usable images. Download millions of high-resolution photos from talented photographers worldwide, free for commercial and personal use.
-- [UserStock](https://userstock.io/): Free photos of people's faces to use as avatars in UI mockups, prototypes and more.
 
 ## Stock Videos
 
@@ -424,7 +420,6 @@ _Wireframing tools for rapid prototyping. Create low-fidelity wireframes, sitema
 - [Sketchize](https://sketchize.com): The easiest way to turn your ideas into lovely sketches!
 - [Sketchsheets](https://sketchsheets.com/): Ready to print sketch sheet templates for UX designers.
 - [Sneakpeekit](https://sneakpeekit.com/): Printable grid paper templates for design wireframing. Free downloadable PDFs for sketching mobile, tablet, desktop, and web layouts.
-- [Zen Wireframe](https://www.zenwireframe.com/): Create mockups of your websites and apps in just minutes.
 
 ## Others
 
