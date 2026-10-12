@@ -1,7 +1,7 @@
 {
-  "stars": 28,
+  "stars": 29,
   "forks": 10,
-  "watchers": 28,
+  "watchers": 29,
   "people": [
     {
       "id": 8937245,
@@ -66,6 +66,14 @@
       "html_url": "https://github.com/Lucas-CX",
       "contributions": 1,
       "type": "contributor"
+    },
+    {
+      "id": 341043183,
+      "login": "guigongzi025",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341043183?v=4",
+      "html_url": "https://github.com/guigongzi025",
+      "starred_at": "2026-10-11T20:12:15Z",
+      "type": "stargazer"
     },
     {
       "id": 12797325,
@@ -350,24 +358,24 @@
       "type": "contributor"
     },
     {
+      "id": 341043183,
+      "login": "guigongzi025",
+      "avatar_url": "https://avatars.githubusercontent.com/u/341043183?v=4",
+      "html_url": "https://github.com/guigongzi025",
+      "starred_at": "2026-10-11T20:12:15Z",
+      "type": "stargazer"
+    },
+    {
       "id": 12797325,
       "login": "mystijk",
       "avatar_url": "https://avatars.githubusercontent.com/u/12797325?v=4",
       "html_url": "https://github.com/mystijk",
       "starred_at": "2026-05-07T06:11:06Z",
       "type": "stargazer"
-    },
-    {
-      "id": 139634897,
-      "login": "niyisurvey",
-      "avatar_url": "https://avatars.githubusercontent.com/u/139634897?v=4",
-      "html_url": "https://github.com/niyisurvey",
-      "starred_at": "2026-03-23T06:22:58Z",
-      "type": "stargazer"
     }
   ],
-  "totalPeople": 35,
+  "totalPeople": 36,
   "totalContributors": 8,
-  "totalStargazers": 27,
-  "lastUpdated": "2026-10-06T05:26:59.072Z"
+  "totalStargazers": 28,
+  "lastUpdated": "2026-10-12T04:57:43.228Z"
 }
