@@ -42,6 +42,59 @@ function makeGitHubRequest(path, method, data) {
   });
 }
 
+
+const entryTitle = (line) => {
+  const match = line.match(/^- \[(.+?)\]/);
+  return match ? match[1].trim() : null;
+};
+
+/**
+ * Insert an entry in alphabetical position inside its section, using the same
+ * comparator as scripts/parse-readme.js. Appending to the end of the section
+ * instead leaves README.md unsorted, which CONTRIBUTING.md requires, and a
+ * maintainer then has to move the line by hand after every submission.
+ * Exported so the placement can be tested without calling the GitHub API.
+ */
+export function insertResourceLine(content, categoryHeader, resourceLine) {
+  const lines = content.split('\n');
+  const start = lines.findIndex((line) => line.trim() === categoryHeader);
+  if (start === -1) return null;
+
+  let end = lines.length;
+  for (let i = start + 1; i < lines.length; i++) {
+    if (lines[i].startsWith('## ')) {
+      end = i;
+      break;
+    }
+  }
+
+  const newTitle = entryTitle(resourceLine);
+  let insertAt = -1;
+  let lastEntry = -1;
+
+  for (let i = start + 1; i < end; i++) {
+    const title = entryTitle(lines[i]);
+    if (title === null) continue;
+    lastEntry = i;
+    if (insertAt === -1 && newTitle !== null &&
+        newTitle.localeCompare(title, 'en', { sensitivity: 'base' }) < 0) {
+      insertAt = i;
+    }
+  }
+
+  if (insertAt === -1) {
+    // Sorts last, or the section has no entries yet: go after the final entry,
+    // or after the section's prose while keeping the blank line before the next
+    // heading intact.
+    insertAt = lastEntry !== -1 ? lastEntry + 1 : end;
+    while (insertAt > start + 1 && lines[insertAt - 1].trim() === '') insertAt--;
+  }
+
+  const updated = [...lines];
+  updated.splice(insertAt, 0, resourceLine);
+  return updated.join('\n');
+}
+
 export const handler = async (event) => {
   // Only allow POST
   if (event.httpMethod !== 'POST') {
@@ -151,25 +204,18 @@ export const handler = async (event) => {
       };
     }
 
-    // Find the next category header (or end of file)
-    let nextCategoryIndex = currentContent.length;
-    const allHeaders = Object.values(categoryHeaders);
-    for (const header of allHeaders) {
-      const headerIndex = currentContent.indexOf(header, categoryIndex + categoryHeader.length);
-      if (headerIndex !== -1 && headerIndex < nextCategoryIndex) {
-        nextCategoryIndex = headerIndex;
-      }
-    }
-
     // Create the new resource line
     // Must match the documented "[Title](URL): Description" format. With " - " the parser
     // leaves the dash attached to the description, and the site renders it.
-    const newResourceLine = `- [${resourceName}](${resourceUrl}): ${description}\n`;
+    const newResourceLine = `- [${resourceName}](${resourceUrl}): ${description}`;
 
-    // Insert the new resource at the end of the category section
-    const beforeCategory = currentContent.substring(0, nextCategoryIndex);
-    const afterCategory = currentContent.substring(nextCategoryIndex);
-    const newContent = beforeCategory.trimEnd() + '\n' + newResourceLine + '\n' + afterCategory;
+    const newContent = insertResourceLine(currentContent, categoryHeader, newResourceLine);
+    if (newContent === null) {
+      return {
+        statusCode: 500,
+        body: JSON.stringify({ error: 'Category section not found in README' })
+      };
+    }
 
     // 5. Update the README.md file
     await makeGitHubRequest(
