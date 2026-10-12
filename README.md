@@ -280,6 +280,7 @@ _Get inspired by the best design work from around the world. Browse award-winnin
 - [Commerce Cream](https://commercecream.com/): Showcase of the best-designed Shopify e-commerce stores. Get inspiration for your online shop design and user experience.
 - [CSS Nectar](https://cssnectar.com/): CSS Nectar is a css website design showcase for web designers and developers.
 - [Design Inspiration](https://www.designspiration.com/): Designspiration is committed to being the best product that it can.
+- [Deslove](https://deslove.com/): A free platform for designers to publish work, build a portfolio, share thoughts, collect useful resources and connect with other creators. Available in English and Ukrainian.
 - [Dribbble](https://dribbble.com/): Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
 - [Httpster](https://httpster.net/): Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
 - [Land-book](https://land-book.com/): We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.
@@ -296,7 +297,6 @@ _Get inspired by the best design work from around the world. Browse award-winnin
 - [UI Garage](https://uigarage.net/): Extensive collection of UI design inspiration and patterns organized by category. Search specific UI elements like forms, navigation, or cards.
 - [Webdesign Inspiration](https://www.webdesign-inspiration.com/): Browse thousands of websites organized by category, style, and subject. Daily updated collection of web design inspiration.
 - [Webflow Showcases](https://webflow.com/discover/): Discover the best web design ideas from Webflow users.
-- [Deslove](https://deslove.com/): A free platform for designers to publish work, build a portfolio, share thoughts, collect useful resources and connect with other creators. Available in English and Ukrainian.
 
 ## Mockup
 
@@ -304,10 +304,10 @@ _Professional mockup templates for stunning presentations. Create realistic devi
 
 - [Angle](https://angle.sh/): Premium collection of 1900+ vector and 3D device mockups for Sketch, Figma, and Adobe XD. Realistic and customizable presentation templates.
 - [Apple](https://developer.apple.com/app-store/marketing/guidelines/#section-products): Official marketing resources and product images from Apple. Download PSD templates for iPhone, iPad, Mac, and other Apple devices.
+- [AppScreen](https://appscreen.pro): Browser-based editor for App Store screenshot sets. Place iPhone or iPad captures in device frames, run caption text across the slides, and export each one at the size Apple requires. Free, with a one-off $9 Pro tier.
 - [Cleanmock](https://cleanmock.com/): Free browser-based mockup generator. Create professional device mockups and screenshots with customizable backgrounds and layouts.
 - [Haikei](https://app.haikei.app/): Generate unique SVG background patterns, shapes, and design assets. Customize colors, layers, and export for web and print.
 - [Shotsnap](https://app.shotsnapp.com/): All you need to do is to choose what device to show it off on, and upload your image for it to be show on the device you chose.
-- [AppScreen](https://appscreen.pro): Browser-based mockup editor that handles an entire App Store slide sequence as a single stretched canvas: set iPhone or iPad captures inside device frames, add caption text across the seams, then export every slide at the pixel size Apple asks for. Free to use; Pro is a one-off $9. Sent in by the maker.
 
 ## Productivity
 

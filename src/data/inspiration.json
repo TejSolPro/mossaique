@@ -72,7 +72,7 @@
       "title": "Deslove",
       "link": "https://deslove.com/",
       "description": "A free platform for designers to publish work, build a portfolio, share thoughts, collect useful resources and connect with other creators. Available in English and Ukrainian.",
-      "globalIndex": 214,
+      "globalIndex": 198,
       "addedAt": "2026-10-05",
       "pricing": null
     },
@@ -80,7 +80,7 @@
       "title": "Dribbble",
       "link": "https://dribbble.com/",
       "description": "Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.",
-      "globalIndex": 198,
+      "globalIndex": 199,
       "addedAt": "2020-09-24",
       "pricing": "freemium"
     },
@@ -88,7 +88,7 @@
       "title": "Httpster",
       "link": "https://httpster.net/",
       "description": "Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.",
-      "globalIndex": 199,
+      "globalIndex": 200,
       "addedAt": "2022-09-08",
       "pricing": "free"
     },
@@ -96,7 +96,7 @@
       "title": "Land-book",
       "link": "https://land-book.com/",
       "description": "We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.",
-      "globalIndex": 200,
+      "globalIndex": 201,
       "addedAt": "2020-09-23",
       "pricing": "free"
     },
@@ -104,7 +104,7 @@
       "title": "Landingfolio",
       "link": "https://www.landingfolio.com/",
       "description": "Landingfolio features the best landing page designs on the web. Get inspiration from real landing page examples, curated by us to ensure the highest quality.",
-      "globalIndex": 201,
+      "globalIndex": 202,
       "addedAt": "2022-05-22",
       "pricing": "freemium"
     },
@@ -112,7 +112,7 @@
       "title": "Landings",
       "link": "https://landings.dev/",
       "description": "Landings is a place to discover hundreds of landing pages from great companies based on preferences like theme and color.",
-      "globalIndex": 202,
+      "globalIndex": 203,
       "addedAt": "2022-11-22",
       "pricing": "free"
     },
@@ -120,7 +120,7 @@
       "title": "Lapa Ninja",
       "link": "https://www.lapa.ninja/",
       "description": "Lapa Ninja is a gallery featuring the best 4940 landing page examples, free books for designers and free UI kits from around the web.",
-      "globalIndex": 203,
+      "globalIndex": 204,
       "addedAt": "2022-05-22",
       "pricing": "free"
     },
@@ -128,7 +128,7 @@
       "title": "Mobbin",
       "link": "https://mobbin.design/",
       "description": "Browse thousands of mobile and web app screenshots organized by flows, screens, and UI elements. Perfect reference library for iOS and Android design patterns.",
-      "globalIndex": 204,
+      "globalIndex": 205,
       "addedAt": "2020-10-01",
       "pricing": "freemium"
     },
@@ -136,7 +136,7 @@
       "title": "Muzli",
       "link": "https://muz.li/",
       "description": "Browser extension and website serving daily design inspiration. Curated content from Dribbble, Behance, and top design publications all in one place.",
-      "globalIndex": 205,
+      "globalIndex": 206,
       "addedAt": "2022-05-22",
       "pricing": "free"
     },
@@ -144,7 +144,7 @@
       "title": "Pentagram",
       "link": "https://www.pentagram.com/",
       "description": "Pentagram is a multi-disciplinary, independently-owned design studio.",
-      "globalIndex": 206,
+      "globalIndex": 207,
       "addedAt": "2020-09-24",
       "pricing": "free"
     },
@@ -152,7 +152,7 @@
       "title": "Pinterest",
       "link": "https://tr.pinterest.com/",
       "description": "When it comes to a great idea, you know it when you see it.",
-      "globalIndex": 207,
+      "globalIndex": 208,
       "addedAt": "2020-09-24",
       "pricing": "free"
     },
@@ -160,7 +160,7 @@
       "title": "Pttrns",
       "link": "https://pttrns.com/",
       "description": "Browse thousands of mobile app design patterns and screenshots. Get inspired by real UI examples from iOS and Android apps across various categories.",
-      "globalIndex": 208,
+      "globalIndex": 209,
       "addedAt": "2020-09-24",
       "pricing": "paid"
     },
@@ -168,7 +168,7 @@
       "title": "Saas Landing Page",
       "link": "https://saaslandingpage.com/",
       "description": "Discover the best 680 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.",
-      "globalIndex": 209,
+      "globalIndex": 210,
       "addedAt": "2022-05-22",
       "pricing": "free"
     },
@@ -176,7 +176,7 @@
       "title": "siteInspire",
       "link": "https://www.siteinspire.com/",
       "description": "SiteInspire is a showcase of the finest web and interactive design.",
-      "globalIndex": 210,
+      "globalIndex": 211,
       "addedAt": "2020-09-24",
       "pricing": "free"
     },
@@ -184,7 +184,7 @@
       "title": "UI Garage",
       "link": "https://uigarage.net/",
       "description": "Extensive collection of UI design inspiration and patterns organized by category. Search specific UI elements like forms, navigation, or cards.",
-      "globalIndex": 211,
+      "globalIndex": 212,
       "addedAt": "2022-01-14",
       "pricing": "free"
     },
@@ -192,7 +192,7 @@
       "title": "Webdesign Inspiration",
       "link": "https://www.webdesign-inspiration.com/",
       "description": "Browse thousands of websites organized by category, style, and subject. Daily updated collection of web design inspiration.",
-      "globalIndex": 212,
+      "globalIndex": 213,
       "addedAt": "2020-09-24",
       "pricing": "free"
     },
@@ -200,7 +200,7 @@
       "title": "Webflow Showcases",
       "link": "https://webflow.com/discover/",
       "description": "Discover the best web design ideas from Webflow users.",
-      "globalIndex": 213,
+      "globalIndex": 214,
       "addedAt": "2020-09-24",
       "pricing": "free"
     }

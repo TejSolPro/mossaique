@@ -23,8 +23,8 @@
     {
       "title": "AppScreen",
       "link": "https://appscreen.pro",
-      "description": "Browser-based mockup editor that handles an entire App Store slide sequence as a single stretched canvas: set iPhone or iPad captures inside device frames, add caption text across the seams, then export every slide at the pixel size Apple asks for. Free to use; Pro is a one-off $9. Sent in by the maker.",
-      "globalIndex": 220,
+      "description": "Browser-based editor for App Store screenshot sets. Place iPhone or iPad captures in device frames, run caption text across the slides, and export each one at the size Apple requires. Free, with a one-off $9 Pro tier.",
+      "globalIndex": 217,
       "addedAt": "2026-10-12",
       "pricing": null
     },
@@ -32,7 +32,7 @@
       "title": "Cleanmock",
       "link": "https://cleanmock.com/",
       "description": "Free browser-based mockup generator. Create professional device mockups and screenshots with customizable backgrounds and layouts.",
-      "globalIndex": 217,
+      "globalIndex": 218,
       "addedAt": "2020-09-23",
       "pricing": "free"
     },
@@ -40,7 +40,7 @@
       "title": "Haikei",
       "link": "https://app.haikei.app/",
       "description": "Generate unique SVG background patterns, shapes, and design assets. Customize colors, layers, and export for web and print.",
-      "globalIndex": 218,
+      "globalIndex": 219,
       "addedAt": "2021-04-24",
       "pricing": "free"
     },
@@ -48,7 +48,7 @@
       "title": "Shotsnap",
       "link": "https://app.shotsnapp.com/",
       "description": "All you need to do is to choose what device to show it off on, and upload your image for it to be show on the device you chose.",
-      "globalIndex": 219,
+      "globalIndex": 220,
       "addedAt": "2020-09-23",
       "pricing": "free"
     }
